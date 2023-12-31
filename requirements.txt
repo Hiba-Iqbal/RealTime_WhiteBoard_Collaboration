@@ -1,0 +1,38 @@
+Task Description: Real-Time Collaborative Whiteboard
+
+Create a real-time collaborative whiteboard application using React and WebSocket technology. The application should allow multiple users to draw, write, and collaborate on a shared canvas in real time.
+
+Key Features:
+
+Canvas Drawing:
+
+Implement a canvas where users can draw using a mouse or touch input.
+Include tools for freehand drawing with different colors, line thickness, and an eraser.
+Real-Time Collaboration:
+
+Use WebSockets or a similar technology to synchronize changes made by different users in real time.
+Ensure that when one user draws something on the canvas, it's immediately visible to all other connected users.
+User Authentication:
+
+Implement a basic user authentication system (signup, login) to uniquely identify users.
+Each user's drawings should be identifiable by their username or avatar.
+Chat Feature:
+
+Include a chat panel alongside the canvas where users can communicate in real time.
+Messages should display usernames and timestamps.
+Canvas Management:
+
+Provide options to clear the canvas, undo/redo drawings, and export the canvas as an image.
+Responsive Design:
+
+Ensure the application works seamlessly on different devices and screen sizes.
+Additional Considerations (Optional):
+
+Implement a feature to save and load previously created whiteboards.
+Include different drawing tools like shapes, text input, or image insertion.
+Enable the ability to share the whiteboard link for others to join the session.
+Submission Guidelines:
+
+Upload the code to a GitHub repository with a detailed README explaining how to run the application locally.
+Include any necessary setup instructions or dependencies.
+Bonus points for deploying the application to a hosting service (like Heroku, Netlify, or Firebase) for live demonstration.
