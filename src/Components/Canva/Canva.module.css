@@ -1,0 +1,16 @@
+.canvasContainer {
+	margin-top: 20px;
+	position: relative;
+}
+
+.canvas {
+	border: 1px solid #ddd;
+	border-radius: 8px;
+	cursor: crosshair;
+	/* position: absolute; */
+	top: 0;
+	background-color: white;
+	left: 0;
+}
+
+/* Add additional styles for your drawing tools if needed */
