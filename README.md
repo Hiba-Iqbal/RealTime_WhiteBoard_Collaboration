@@ -20,9 +20,15 @@ Username and Timestamps: Messages display usernames and timestamps.
 
 **How to Run Locally**
 Clone the repository: git clone [url]
+
 Install dependencies: npm install
+
 Set up Firebase:
+
 Create a Firebase project and obtain the configuration details.
+
 Replace the Firebase configuration in the application.
+
 Start the application: npm start
+
 Open the application in your browser: http://localhost:3000
